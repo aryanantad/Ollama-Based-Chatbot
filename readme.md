@@ -304,17 +304,6 @@ Some planned improvements for the project include:
 
 ---
 
-## 📸 Application Preview
-
-> Add screenshots of the Streamlit chatbot here to make the repository more visually attractive.
-
-```text
-📷 Screenshot 1 — Chatbot Interface
-
-📷 Screenshot 2 — User Prompt & AI Response
-
-📷 Screenshot 3 — Ollama Model Running Locally
-```
 
 ---
 
